@@ -36,6 +36,8 @@ vi /etc/resolve.conf
 nameserver 178.22.122.100
 ```
 
+There is also a better solution rather than Shecan which will spare you from a lot suffering which you can find out more about in <a href=https://github.com/freedomofdevelopers/fod>here </a>
+
 Install Python build dependencies:
 
 ```
